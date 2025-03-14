@@ -1,9 +1,14 @@
-## Hi there 👋
+Hello, I'm Daniel Martin 👋
+About Me 🧑‍💻
+🎓 Web Application Development Student at IES Ribera del Tajo.
+🌐 Learning new technologies and languages.
+🚀 Passionate about technology and new challenges.
+🎧 I'm a professional DJ
+Connect with me 🌐
+
 
 
 # Skills and Tools 💻
-![Skills and Tools](https://media2.giphy.com/media/QssGEmpkYEOhBcb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmoba8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif)
-
 ## ENVIRONMENT
 ### TECHNOLOGIES
 
@@ -15,17 +20,3 @@ PHP &nbsp; SYMFONY &nbsp; NODEJS &nbsp; SEQUELIZE &nbsp; MYSQL &nbsp; JAVA &nbsp
 
 **TOOLS**  
 VSCODE &nbsp; GITHUB &nbsp; POSTMAN &nbsp; VS  
-<!--
-**dannyyankee/dannyyankee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
